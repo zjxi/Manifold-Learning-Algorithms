@@ -1,6 +1,6 @@
 import numpy as np
 
-'''the implement of isomap'''
+'''the implementation of isomap'''
 
 
 # 获取欧氏距离
