@@ -1,6 +1,6 @@
 import numpy as np
 
-'''the implement of LE'''
+'''the implementation of LE'''
 
 
 def knn(data_in, central_idx, k):
