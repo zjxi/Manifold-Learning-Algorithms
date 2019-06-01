@@ -24,7 +24,7 @@
 
 
 ## Summary
-![overview](./assets/manifold_2d.png)
+![overview](./assets/Manifold_2D_Updated2.png)
 
 ## Results 
 ### MDS (Multidimensional Scaling)
