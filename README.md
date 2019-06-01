@@ -1,6 +1,6 @@
 
 --------------------------------------------------------------------------------
-[![image](https://img.shields.io/pypi/l/requests.svg)]
+[![image](https://img.shields.io/pypi/l/requests.svg)](https://github.com/ElecRex/Manifold-Learning-Algorithms)
 ## Requirements
 * NumPy 1.16.3
 * scikit-learn 0.21.2
