@@ -1,6 +1,6 @@
 
 --------------------------------------------------------------------------------
-[![image](https://img.shields.io/pypi/l/requests.svg)](https://pypi.org/project/requests/)
+[![image](https://img.shields.io/pypi/l/requests.svg)]
 ## Requirements
 * NumPy 1.16.3
 * scikit-learn 0.21.2
