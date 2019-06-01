@@ -9,7 +9,7 @@
 
 ## Usage
 ### the dataset of Data
-
+(Determine if the man in the image has a beard)
 ```
 ├── Data
        ├── train
