@@ -24,20 +24,20 @@
 
 
 ## Summary
-![overview](./assests/manifold_2d.png)
+![overview](./assets/manifold_2d.png)
 
 ## Results 
 ### MDS (Multidimensional Scaling)
-![mds](./assests/MDS_3D.png)
+![mds](./assets/MDS_3D.png)
 
 ### Isomap (Isometric Feature Mapping)
-![isomap](./assests/Isonmap_3D.png)
+![isomap](./assets/Isonmap_3D.png)
 
 ### LLE (Locally Linear Embedding)
-![lle](./assests/LLE_3D.png)
+![lle](./assets/LLE_3D.png)
 
 ### LE (Laplacian Eigenmaps)
-![isomap](./assests/LE_3D.png)
+![isomap](./assets/LE_3D.png)
 
 ## Reference
 * [NumPy-Document](https://www.numpy.org/devdocs/reference/index.html)
