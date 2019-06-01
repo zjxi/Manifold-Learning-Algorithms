@@ -1,9 +1,9 @@
-<p align="center"><img width="40%" src="./assests/logo.jpg" /></p>
 
 --------------------------------------------------------------------------------
 ## Requirements
 * NumPy 1.16.3
 * scikit-learn 0.21.2
+* Matplotlib 3.1.0
 * Python 3.7
 
 ## Usage
@@ -42,6 +42,7 @@
 ## Reference
 * [NumPy-Document](https://www.numpy.org/devdocs/reference/index.html)
 * [scikit-learn-Document](https://scikit-learn.org/stable/_downloads/scikit-learn-docs.pdf)
+* [Matplotlib-Document](https://matplotlib.org/3.1.0/users/index.html)
 
 
 
