@@ -1,7 +1,7 @@
 
 --------------------------------------------------------------------------------
 [![image](https://img.shields.io/pypi/l/requests.svg)](https://github.com/ElecRex/Manifold-Learning-Algorithms)
-![Python 3.7](https://img.shields.io/badge/python-3.7-green.svg?style=plastic)
+![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)
 ## Requirements
 * NumPy 1.16.3
 * scikit-learn 0.21.2
