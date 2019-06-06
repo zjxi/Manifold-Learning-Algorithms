@@ -1,6 +1,7 @@
 
 from numpy import *
 
+''' The implementation of LLE algorithm '''
 
 '''
  data：需要降维的矩阵
