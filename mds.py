@@ -1,6 +1,6 @@
 import numpy as np
 
-'''the implement of MDS'''
+'''the implementation of MDS'''
 
 # 获取欧氏距离
 # data: 要获取欧氏距离的矩阵，大小 m * n
