@@ -47,7 +47,7 @@
 * [Matplotlib-Document](https://matplotlib.org/3.1.0/users/index.html)
 
 ## Author
-- Written by xzj @ 2019-6-14
+- written by **xzj** @ 2019-6-14
 
  
 
